@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '36999'
     url: http://www.gutenberg.org/2009/agents/36999
 description: Copy of typescript.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34394#The-Boy-Scouts-of-Bob-s-HillA-Sequel-to-The-Bob-s-Hill-Braves-
 gutenberg_issued: '2010-11-22'
 gutenberg_type: Text
 identifiers:
